@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoundNa_App</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="login">Sign Up</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="come_and_join_us_to_be_a_foundna_expert">Come and join us to be a FoundNa expert</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760453787649",
+    "project_id": "foundna-app",
+    "storage_bucket": "foundna-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760453787649:android:53bd85fa03b9e7dbaa5000",
+        "android_client_info": {
+          "package_name": "com.example.foundna_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760453787649-i5i99vm32g2i1133v2hvpkc1upfktihm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foundna_app",
+            "certificate_hash": "eb8c46d21fd7d09cf81610a82b745aa33e2d1471"
+          }
+        },
+        {
+          "client_id": "760453787649-addghisq3eftkk8i5s8u7ibc5osg99um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Ljo6spGF8bhDAO0u6rPNo0f4Zf4GI_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760453787649-7rihojipps99l2hme476rp4nme8nnc8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
