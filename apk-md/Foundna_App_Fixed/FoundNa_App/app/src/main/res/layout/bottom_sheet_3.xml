@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/animalprediction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="This Your Animal"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:visibility="visible"
+        android:background="@color/home_background"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/layoutEdit"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bekembangbiak"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/berkembangbiak"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="30dp"
+                android:fontFamily="@font/poppin"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Makanan"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/makanan"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="30dp"
+                android:fontFamily="@font/poppin"
+                android:textSize="14sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Habitat"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/habitat"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppin"
+                android:textSize="14sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ciri-ciri"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ciriciri"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppin"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Penanganan"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/penanganan"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="30dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/poppin"
+                android:textSize="14sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

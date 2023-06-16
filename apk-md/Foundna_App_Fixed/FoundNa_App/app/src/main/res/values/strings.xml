@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">FoundNa</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="login">Sign Up</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="come_and_join_us_to_be_a_foundna_expert">Come and join us to be a FoundNa expert</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="model">Model:</string>
+    <string name="device">Device</string>
+    <string name="logo_name">Get Your Animal</string>
+
+    <!--animal description-->
+    <string name="kameleon">Kameleon adalah reptil dengan tubuh ramping dan ekor yang panjang. Mereka memiliki mata yang besar dan bulat, serta lidah yang panjang dan lengket. Salah satu ciri paling khas dari kameleon adalah kemampuannya untuk mengubah warna kulitnya, yang digunakan untuk komunikasi, termoregulasi, dan kamuflase.</string>
+    <string name="ciriciri">Tubuh ramping dengan ekor yang panjang.
+Mata besar dan bulat dengan penglihatan binokular yang baik.
+Lidah panjang dan lengket yang digunakan untuk menangkap mangsa.
+Kaki yang kuat dan cakar yang dapat memanjat.
+Kulit dengan pigmen khusus yang memungkinkan mereka mengubah warna dan pola.</string>
+    <string name="habitat">Kameleon ditemukan di berbagai habitat, termasuk hutan, sabana, dan daerah subtropis. Mereka umumnya hidup di pohon-pohon atau semak-semak di sekitar lingkungan yang berlimpah dengan dedaunan dan cabang-cabang untuk bersembunyi.</string>
+    <string name="makanan">Hewan Karnivora (hewan pemakan daging)
+Biasanya: serangga, seperti belalang, jangkrik, ngengat, ulat, burung kecil dan hewan kecil lainnya.
+</string>
+    <string name="berkembangbiak">Pembiakan: Proses perkawinan kameleon melibatkan tarian dan peragian warna oleh jantan untuk memikat betina.
+Telur: Betina akan menggali lubang di tanah atau menemukan tempat yang aman untuk meletakkan telurnya.
+Perawatan dan Pemeliharaan anak: Setelah penetasan, anak kameleon muda biasanya mandiri dan harus mencari makan sendiri.
+    </string>
+    <string name="penanganan">Hindari menangkap kameleon dari habitat alaminya, kecuali jika Anda memiliki pengetahuan dan izin yang diperlukan.
+Saat menangani kameleon peliharaan, pastikan tangan Anda bersih dan bebas dari bahan kimia atau lotion yang dapat membahayakan mereka.
+Hindari menangkap atau memegang kameleon dengan keras. Biarkan mereka memanjat atau merangkak ke tangan Anda secara sukarela.
+Jangan menarik atau menekan ekor kameleon karena mereka sangat rentan terhadap cedera pada bagian tersebut.
+Jaga agar kandang atau habitat mereka tetap bersih, suhu yang tepat, dan kelembaban yang sesuai untuk menjaga kesehatan mereka.
+</string>
+    
+    <!--katak-->
+    <string name="katakberacun">Phyllobates terribilis, juga dikenal sebagai "Golden Poison Frog" atau "Ranitomeya terribilis", adalah spesies katak beracun yang berasal dari hutan hujan Kolombia.</string>
+    <string name="ciricirikatakberacun">Warna: Phyllobates terribilis memiliki pola warna yang mencolok, dengan kombinasi warna hitam dan kuning atau oranye yang cerah. Pola warnanya dapat bervariasi antara individu.
+Ukuran: Katak ini adalah salah satu spesies katak beracun terbesar. Panjang tubuhnya berkisar antara 2,5 hingga 5 cm.
+Kulit beracun: Phyllobates terribilis memiliki kelenjar di kulitnya yang menghasilkan toksin yang sangat beracun. Toksin tersebut digunakan sebagai pertahanan terhadap predator.
+</string>
+    <string name="habitatkatakberacun">Phyllobates terribilis hidup di hutan hujan tropis Kolombia, terutama di daerah dataran rendah dan perbukitan. Mereka dapat ditemukan di hutan yang lembap dengan vegetasi yang lebat, terutama di sepanjang tepi sungai, di dekat kolam atau genangan air, serta di sekitar tanah yang berlumpur.
+</string>
+    <string name="makanankatakberacun">Hewan Insektivora (hewan pemakan serangga).
+Biasanya: semut, kutu, ngengat, jangkrik, laba-laba, dan serangga lain yang dapat ditemukan di lingkungan hutan hujan.
+</string>
+    <string name="berkembangbiakkatakberacun">Pembiakan: Pembiakan Phyllobates terribilis terjadi ketika pasangan jantan dan betina membentuk ikatan dan melakukan persilangan. Jantan akan menggunakan panggilan khusus untuk memanggil betina, dan jika tertarik, betina akan merespons panggilan tersebut. Setelah persilangan terjadi, betina akan menempatkan telur-telurnya di lingkungan yang cocok.
+Telur: Setelah persilangan, betina Phyllobates terribilis akan menempatkan telur-telurnya di tempat yang cocok, seperti daun atau tempat lain yang lembap dan aman. Jumlah telur yang diletakkan dapat bervariasi, tetapi umumnya berkisar antara 2 hingga 6 telur. Betina akan merawat telur-telurnya dengan hati-hati, menjaga kelembapan dan melindungi mereka dari predator.
+-Pemeliharaan: Setelah telur menetas, betina akan membawa katak muda di punggungnya menuju tempat yang lebih aman, seperti kolam atau genangan air. Pada tahap ini, penting untuk memastikan lingkungan pemeliharaan anak-anak Phyllobates terribilis memenuhi kebutuhan mereka.
+</string>
+    <string name="penanganankatakberacun">Saat menangani Phyllobates terribilis, penting untuk menggunakan sarana pelindung diri yang sesuai.
+Jangan pernah menyentuh atau memegang Phyllobates terribilis dengan tangan kosong.
+Gunakan alat bantu seperti pinset atau sumpit steril untuk memindahkan atau menangani Phyllobates terribilis.
+Pastikan kandang Phyllobates terribilis aman dan terkunci dengan baik.
+Jauhkan wajah Anda dari dekat Phyllobates terribilis saat menangani mereka.
+Setelah menangani Phyllobates terribilis, cuci tangan Anda dengan sabun dan air secara menyeluruh untuk menghilangkan kemungkinan terpapar toksin.
+</string>
+
+    <!--burung unta-->
+    <string name="burungunta">Burung unta, atau Struthio camelus, adalah burung yang tidak dapat terbang yang berasal dari Afrika. Mereka adalah anggota terbesar dari ordo Struthioniformes dan merupakan satu-satunya spesies yang masih hidup dari keluarga Struthionidae. Burung unta *tidak Berbahaya* bagi manusia, cenderung bersifat tidak agresif terhadap manusia, kecuali jika mereka merasa terancam. Serangan burung unta terhadap manusia jarang terjadi, kecuali jika manusia mendekati sarang mereka atau memprovokasi mereka secara sengaja.</string>
+    <string name="ciriciriburungunta">Ukuran: Burung unta dewasa dapat mencapai tinggi sekitar 2,1 hingga 2,8 meter (6,9 hingga 9,2 kaki), dengan bobot mencapai 63 hingga 145 kilogram (139 hingga 320 pon).
+Tubuh: Mereka memiliki tubuh yang besar dengan leher panjang, kaki yang kuat, dan sayap yang sangat kecil.
+Bulu: Bulu-bulunya umumnya berwarna coklat abu-abu di bagian atas dan putih di bagian bawah. Burung unta jantan memiliki bulu berwarna hitam yang lebih intens di bagian bawah leher dan punggung
+</string>
+    <string name="habitatburungunta">Burung unta umumnya ditemukan di padang rumput, didaerah gurun atau savana, dan wilayah semi-gurun di Afrika, terutama di negara-negara seperti Sudan, Ethiopia, Somalia, Namibia, dan Afrika Selatan.
+</string>
+    <string name="makananburungunta">Hewan Omnivora (hewan pemakan segala, baik tumbuhan maupun hewan lain)
+Biasanya : dedaunan, akar-akaran, biji-bijian, serangga, kadal, dan hewan kecil lain yang ada di sekitarnya.
+</string>
+    <string name="berkembangbiakburungunta">Pembiakan: Burung unta jantan biasanya menjadi teritorial selama musim kawin dan membangun sarang dengan menggali lubang di tanah yang dalam. Betina kemudian bertelur di dalam lubang tersebut.
+Telur: Betina unta biasanya bertelur sekitar 7 hingga 10 butir telur yang sangat besar. Telur burung unta adalah yang terbesar di antara semua burung saat ini.
+Perawatan dan Pemeliharaan Anak: Betina
+</string>
+    <string name="carapenangananburungunta">Jangan Panik
+Jangan mencoba lari
+Melambaikan kot/benda seperti karung turun naik untuk mengalihkan perhatian
+Mengambil peluang untuk memegang lehernya dengan kuat namun tetap berhati-hati jangan sampai ditendang olehnya
+Tutup kepalanya dengan kot/benda seperti karung
+</string>
+
+    <string name="monstergila">Monster Gila, atau Heloderma suspectum adalah jenis kadal yang hidup di daerah barat daya Amerika Serikat dan utara Meksiko. Mereka memiliki penampilan yang unik dengan warna kulit oranye dan hitam atau merah muda dan hitam yang mencolok. Gila monster adalah hewan berbisa, dan memiliki gigitan yang kuat. Namun, mereka umumnya tidak dianggap berbahaya bagi manusia kecuali jika mereka disalahgunakan atau diprovokasi.</string>
+    <string name="ciricirimonstergila">Ukuran: Gila monster adalah kadal berukuran besar dengan panjang tubuh rata-rata sekitar 45 hingga 60 cm. Beberapa individu bahkan dapat mencapai ukuran lebih dari 60 cm.
+Warna: Gila monster memiliki warna kulit yang mencolok dan mudah dikenali. Biasanya, mereka memiliki pola berwarna oranye dan hitam atau merah muda dan hitam. Pola warna ini membantu memberikan perlindungan dari pemangsa alami mereka.
+Tubuh: Gila monster memiliki tubuh yang relatif tebal dengan tubuh yang berat dan padat. Mereka memiliki leher yang pendek, kepala yang besar, dan ekor yang gemuk.
+Kulit: Kulit Gila monster memiliki tekstur yang kasar dan bergerigi. Permukaan kulitnya membantu melindungi mereka dari kekeringan dan cedera saat melalui lingkungan yang keras.
+Leher Pendek dan Kepala Besar: Mereka memiliki leher pendek yang langsung terhubung ke kepala yang besar. Kepala mereka memiliki bentuk persegi dengan mata yang kecil, hidung yang menonjol, dan mulut yang dilengkapi dengan gigi berbisa.
+Gerak: Gila monster umumnya memiliki sikap yang tenang dan lambat dalam gerakan. Mereka tidak terlalu agresif terhadap manusia kecuali jika merasa terancam atau diprovokasi.
+</string>
+    <string name="habitatmonstergila">Gila monster ditemukan di daerah gurun dan padang pasir di barat daya Amerika Serikat, termasuk negara-negara seperti Arizona, New Mexico, Nevada, dan Texas, serta di beberapa bagian utara Meksiko.
+</string>
+    <string name="makananmonstergila">Hewan Karnivora (hewan pemakan daging)
+Biasanya : telur burung dan reptil, mamalia kecil, seperti tikus dan kelinci kecil, serta hewan-hewan kecil seperti kadal, serangga dan bangkai.
+</string>
+    <string name="berkembangbiakmonstergila">Pembiakan: Pada musim kawin, pejantan Gila monster mencari betina. Setelah pejantan menemukan betina, mereka akan melakukan tarian kawin yang kompleks. Setelah tarian kawin, betina Gila monster akan mencari tempat yang cocok untuk membuat sarang di tanah. Mereka akan menggali sarang yang dalamnya mencapai sekitar 30 hingga 60 cm.
+Telur: Setelah sarang selesai, betina akan meletakkan telur di dalamnya. Jumlah telur yang diletakkan biasanya berkisar antara 2 hingga 12 butir.
+Perawatan dan Pemeliharaan anak: Anak-anak Gila monster harus mencari makanan sendiri dan belajar bertahan hidup. Mereka akan bergantung pada insting alami mereka untuk mencari mangsa dan beradaptasi dengan lingkungan sekitar.
+</string>
+    <string name="penangananmonstergila">Jaga jarak dan Jangan mendekati atau mencoba menangkap Gila monster secara sembarangan.
+Jika Anda perlu menangani Gila monster dalam konteks penelitian, konservasi, atau keperluan khusus lainnya.
+Jika Anda memiliki keahlian dan izin yang diperlukan untuk menangani Gila monster, pastikan Anda memakai perlengkapan perlindungan diri yang sesuai.
+Selalu berhati-hati dan hindari gigitan. Jangan pernah mencoba memancing Gila monster untuk menggigit atau memperlihatkan perilaku agresif.
+Jika perlu memegang atau memindahkan Gila monster, pastikan Anda melakukannya dengan lembut dan hati-hati. Hindari menekan atau melukai hewan tersebut.
+Mengembalikan hewan ke lingkungan yang sesuai.
+</string>
+
+
+</resources>
