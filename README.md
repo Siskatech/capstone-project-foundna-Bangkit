@@ -1,6 +1,6 @@
 # Capstone-Project-Foundna-Bangkit
 
-**What is FoundNa?** 
+**What is FoundNa?** /n
 FoundNa is a capstone project developed as part of the Bangkit 2023 program. FoundNa's goal is to create a mobile application that helps users identify newly encountered animals using image recognition technology and mobile mobile platforms. This application aims to provide detailed information on the animals encountered and how to handle them, as well as help others in conducting research.
 
 **Project Details**
