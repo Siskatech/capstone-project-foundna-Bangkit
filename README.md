@@ -11,5 +11,4 @@ The FoundNa project focuses on the following key aspects:
 4. Online Shop: Users can purchase animal goods through the application.
 
 **Demo Application**   
-
 A demo version of the FoundNa project is available for viewing. This demo is mobile showcasing the app's main features and functionalities. To access the demo, please click on the following link: https://drive.google.com/file/d/1b5hd25LqZYn-q3WGxQAcQCvP54wLrxP3/view?usp=sharing 
